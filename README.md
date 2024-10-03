@@ -1,4 +1,4 @@
-##GSM SMS Receiver
+--GSM SMS Receiver
 This project allows you to receive SMS messages via a GSM modem using Node.js on the backend, and display them in real-time in a Vite-powered React frontend using WebSockets.
 
 #Prerequisites
