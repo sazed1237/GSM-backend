@@ -15,9 +15,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 2. Install dependencies:
 * npm install
-
 3. Configure The GSM modem:
-Make sure to adjust the COM port and baud rate in index.js to match your modem's settings.
-
+* Make sure to adjust the COM port and baud rate in index.js to match your modem's settings.
 5. Run the backend server:
 * node index.js
